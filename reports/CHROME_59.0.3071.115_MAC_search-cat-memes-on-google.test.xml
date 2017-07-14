@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="search-cat-memes-on-google.test"
+    errors="0" failures="0" hostname="" id="" package="search-cat-memes-on-google.test" skipped="0"
+    tests="1" time="8.494" timestamp="Fri, 14 Jul 2017 03:58:29 GMT">
+  
+    <testcase name="Demo test Google" classname="search-cat-memes-on-google.test" time="8.494" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
